@@ -82,7 +82,7 @@ Ele lê as informações linha a linha de uma aba especificada e interage com a 
 
 ---
 
-## 🛠️ Módulo 2: Consulta de Dados do Equipamento (IH08 / IQ09 / IQ03)
+## 🛠️ Módulo 2: Consulta de Dados do Equipamento (IH08)
 
 📅 **Data:** Junho de 2025
 
