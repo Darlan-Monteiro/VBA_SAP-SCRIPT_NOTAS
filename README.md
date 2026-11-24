@@ -161,7 +161,7 @@ Caso tenha dúvidas ou sugestões, entre em contato comigo:
 **Darlan Dos Santos Monteiro**  
 📧 darlanmonteirott@gmail.com  
 📱 +55 (22) 99229-7791  
-🔗 [@darlan_tec](https://x.com/darlan_tec) | [GitHub](https://github.com/Darlan-Monteiro)
+
 
 ---
 
